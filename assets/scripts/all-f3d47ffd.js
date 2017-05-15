@@ -1,0 +1,1 @@
+!function(n){n(document).ready(function(){function t(){var n=/(iPhone|iPad|iPod);[^OS]*OS (\d)/,t=navigator.userAgent.match(n);return t?t[2]<8:!1}t()&&n("html").addClass("no-vh")})}(jQuery);
